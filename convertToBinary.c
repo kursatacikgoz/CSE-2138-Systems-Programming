@@ -3,9 +3,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-// MUHAMMET KURSAT ACIKGOZ
-// 150116020
-
 /*
 * This code reads file which name is taken from user
 * takes input to form options are little and big
